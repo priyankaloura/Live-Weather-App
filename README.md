@@ -37,6 +37,21 @@ The project uses the OpenWeatherMap API to retrieve weather data. You will need 
 └── script.js # JavaScript code for fetching and displaying weather data
 
 
+## Attachments
+<img width="1470" alt="Screenshot 2023-07-07 at 7 43 11 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/a5a1d597-5d56-4d56-b8f9-2fd16cfb4c7a">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 32 57 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/59a646c6-c56f-471b-bbe2-6133c3e51f79">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 38 01 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/fa402058-3708-4f57-b6f6-98522d4e3be3">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 33 10 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/37c5df0f-873b-490e-9e5f-86d8f55b9f2c">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 33 22 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/6287e68b-63ee-4686-8ffe-6e836e3979de">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 38 50 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/5e04550c-2b62-4841-b75d-43c9d4d2d25a">
+
+<img width="1470" alt="Screenshot 2023-07-07 at 10 33 36 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/140be939-3c91-4649-ba06-3811d8b49ed9">
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
