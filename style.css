@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url(/white-cloud-blue-sky.jpg);
+  background: url(./white-cloud-blue-sky.jpg);
   background-color: rgba(163, 70, 70, 0.5);
   mix-blend-mode:multiply;
 }
