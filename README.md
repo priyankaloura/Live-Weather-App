@@ -1,4 +1,4 @@
-# Live Weather Display
+# Live Weather App
 
 This project displays live weather information based on location using JSON data from a weather API.
 
