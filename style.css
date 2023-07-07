@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url("https://priyankaloura.github.io/white-cloud-blue-sky.jpg");
+  background-image: url('./white-cloud-blue-sky.jpg');
   background-color: rgba(163, 70, 70, 0.5);
   mix-blend-mode:multiply;
 }
