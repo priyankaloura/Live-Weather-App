@@ -11,7 +11,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background-image: url('./images/white-cloud-blue-sky.jpg');
-  background-color: rgba(163, 70, 70, 0.5);
+  background-color: rgba(62, 200, 255, 0.5);
   mix-blend-mode:multiply;
 }
 ::selection{
