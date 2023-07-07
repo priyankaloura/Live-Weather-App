@@ -53,7 +53,7 @@ The project uses the OpenWeatherMap API to retrieve weather data. You will need 
 - Raipur
 <img width="1470" alt="Screenshot 2023-07-07 at 10 33 22 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/6287e68b-63ee-4686-8ffe-6e836e3979de">
 
--Florida
+- Florida
 <img width="1470" alt="Screenshot 2023-07-07 at 10 38 50 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/5e04550c-2b62-4841-b75d-43c9d4d2d25a">
 
 <img width="1470" alt="Screenshot 2023-07-07 at 10 33 36 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/140be939-3c91-4649-ba06-3811d8b49ed9">
