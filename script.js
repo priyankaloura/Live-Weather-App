@@ -29,7 +29,8 @@ function requestApi(city){
 }
 
 function onSuccess(position){
-    const {lat, lon} = position.coords;
+    const lat = position.lat;
+    const lon = position.lon;
     api = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=b6a2bb23c28ab10ae79547fdff8e6309`;
     fetchData();
 }
