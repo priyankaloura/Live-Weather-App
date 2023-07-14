@@ -58,11 +58,6 @@ The project uses the OpenWeatherMap API to retrieve weather data. You will need 
 
 <img width="1470" alt="Screenshot 2023-07-07 at 10 33 36 PM" src="https://github.com/priyankaloura/Live-Weather-App/assets/101576566/140be939-3c91-4649-ba06-3811d8b49ed9">
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and customize the project according to your needs.
 
 ## Acknowledgements
 
